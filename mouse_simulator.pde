@@ -21,7 +21,7 @@ void setup()
     mouseSimulator.wheel = 0;
 }
 
-/* Move the mouse in a clockwise square every 2 seconds */
+
 void loop() {
    read_joystick();
     
