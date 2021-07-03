@@ -4,9 +4,9 @@
    TO let Arduino Joystick Module operates like mouse.
    
 ## Tools
-1. Arduino UNO Conatains Atmega16u2 Microchip.
+1. Arduino UNO Contains Atmega16u2 Microchip.
 2. Two Firamwares to let
-   COM Port to HID
+   COM Port to HID  
    HID to COM Port
 3. Arduino IDE
 4. Software Flip 3.4.7 
@@ -23,4 +23,6 @@ Back to COM Port
 1. Enter DFU Mode
 2. Burnprocess (HID to COM Port) Firmware
 
+## Now
+Can controll x,y axises moving.
 
