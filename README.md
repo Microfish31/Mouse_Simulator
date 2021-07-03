@@ -5,7 +5,7 @@
    
 ## Tools
 1. Arduino UNO Contains Atmega16u2 Microchip.
-2. Two Firamwares to let
+2. Two Firamwares to let  
    COM Port to HID  
    HID to COM Port
 3. Arduino IDE
